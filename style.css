@@ -307,7 +307,7 @@ button {
 }
 
 .card-one {
-  background: linear-gradient(135deg,rgba(11, 16, 32, 0.95));
+  background: linear-gradient(135deg, rgba(11, 16, 32, 0.95));
 }
 
 .card-two {
@@ -388,7 +388,7 @@ button {
     top: 74px;
     right: 4%;
     width: 220px;
-    background: #ffffff;
+    background: rgba(11, 16, 32, 0.95);
     border: 1px solid #e2e8f0;
     border-radius: 16px;
     padding: 1rem;
