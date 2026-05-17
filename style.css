@@ -389,12 +389,12 @@ button {
     right: 4%;
     width: 220px;
     background: rgba(11, 16, 32, 0.95);
-    border: 1px solid #e2e8f0;
+    border: 1px solid #2563eb;
     border-radius: 16px;
     padding: 1rem;
     flex-direction: column;
     gap: 0.9rem;
-    box-shadow: 0 14px 28px royalblue;
+    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.12);
   }
 
   .nav-menu.show {
